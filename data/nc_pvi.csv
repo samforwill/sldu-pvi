@@ -1,0 +1,51 @@
+,GEOID,district,pred_PVI,District_Number,pred_PVI_shifted,predicted_party,Party,District,Member,Counties Represented,competitiveness
+0,610U800US37001,NC-Sen-01,-19.280423178867498,1,-13.030423178867498,Republican,R,1,Norman W. Sanderson,"Carteret,                         Chowan,                         Dare,                         Hyde,                         Pamlico,                         Pasquotank,                         Perquimans,                         Washington",Solid R
+1,610U800US37002,NC-Sen-02,-10.854439951700764,2,-4.604439951700764,Republican,R,2,Jim Perry,"Beaufort,                         Craven,                         Lenoir",Tilt R
+2,610U800US37003,NC-Sen-03,-4.840893218512786,3,1.409106781487214,Democratic,R,3,Bobby Hanig,"Bertie,                         Camden,                         Currituck,                         Gates,                         Halifax,                         Hertford,                         Martin,                         Northampton,                         Tyrrell,                         Warren",Toss Up
+3,610U800US37004,NC-Sen-04,-6.718213359302609,4,-0.46821335930260943,Republican,R,4,Buck Newton,"Greene,                         Wayne,                         Wilson",Toss Up
+4,610U800US37005,NC-Sen-05,6.734698531446632,5,12.984698531446632,Democratic,D,5,Kandie D. Smith,"Edgecombe,                         Pitt",Solid D
+5,610U800US37006,NC-Sen-06,-19.08091407534424,6,-12.83091407534424,Republican,R,6,Michael A. Lazzara,Onslow,Solid R
+6,610U800US37007,NC-Sen-07,-2.5576133067447455,7,3.6923866932552545,Democratic,R,7,Michael V. Lee,New Hanover,Tilt D
+7,610U800US37008,NC-Sen-08,-15.614870050409609,8,-9.364870050409609,Republican,R,8,Bill Rabon,"Brunswick,                         Columbus,                         New Hanover",Likely R
+8,610U800US37009,NC-Sen-09,-15.626561116931482,9,-9.376561116931482,Republican,R,9,Brent Jackson,"Bladen,                         Duplin,                         Jones,                         Pender,                         Sampson",Likely R
+9,610U800US37010,NC-Sen-10,-19.62462225298972,10,-13.37462225298972,Republican,R,10,Benton G. Sawrey,Johnston,Solid R
+10,610U800US37011,NC-Sen-11,-7.069530899097707,11,-0.8195308990977068,Republican,R,11,Lisa S. Barnes,"Franklin,                         Nash,                         Vance",Toss Up
+11,610U800US37012,NC-Sen-12,-14.977336054821825,12,-8.727336054821825,Republican,R,12,Jim Burgin,"Harnett,                         Lee,                         Sampson",Likely R
+12,610U800US37013,NC-Sen-13,4.380786805203094,13,10.630786805203094,Democratic,D,13,Lisa Grafstein,Wake,Likely D
+13,610U800US37014,NC-Sen-14,14.45018200736112,14,20.70018200736112,Democratic,D,14,Dan Blue,Wake,Super Solid D
+14,610U800US37015,NC-Sen-15,11.364032305857902,15,17.614032305857904,Democratic,D,15,Jay J. Chaudhuri,Wake,Solid D
+15,610U800US37016,NC-Sen-16,3.5729037323215787,16,9.822903732321578,Democratic,D,16,Gale Adcock,Wake,Likely D
+16,610U800US37017,NC-Sen-17,-11.195214616894255,17,-4.945214616894255,Republican,D,17,Sydney Batch,Wake,Tilt R
+17,610U800US37018,NC-Sen-18,-4.582512794643151,18,1.6674872053568492,Democratic,D,18,Mary Wills Bode,"Granville,                         Wake",Toss Up
+18,610U800US37019,NC-Sen-19,-3.2181173356049704,19,3.0318826643950296,Democratic,D,19,Val Applewhite,Cumberland,Tilt D
+19,610U800US37020,NC-Sen-20,7.980419558132144,20,14.230419558132144,Democratic,D,20,Natalie S. Murdock,"Chatham,                         Durham",Solid D
+20,610U800US37021,NC-Sen-21,-2.6760755820625612,21,3.5739244179374388,Democratic,R,21,Tom McInnis,"Cumberland,                         Moore",Tilt D
+21,610U800US37022,NC-Sen-22,13.692756028492996,22,19.942756028492994,Democratic,D,22,Mike Woodard,Durham,Solid D
+22,610U800US37023,NC-Sen-23,4.788501191260633,23,11.038501191260632,Democratic,D,23,Graig Meyer,"Caswell,                         Orange,                         Person",Likely D
+23,610U800US37024,NC-Sen-24,-1.1343482691790672,24,5.115651730820932,Democratic,R,24,"Danny Earl Britt, Jr.","Hoke,                         Robeson,                         Scotland",Tilt D
+24,610U800US37025,NC-Sen-25,-13.95606735970303,25,-7.706067359703029,Republican,R,25,Amy S. Galey,"Alamance,                         Randolph",Likely R
+25,610U800US37026,NC-Sen-26,-18.204487465517747,26,-11.954487465517747,Republican,R,26,Phil Berger,"Guilford,                         Rockingham",Likely R
+26,610U800US37027,NC-Sen-27,-2.5848276332652964,27,3.6651723667347036,Democratic,D,27,Michael Garrett,Guilford,Tilt D
+27,610U800US37028,NC-Sen-28,17.573601426242714,28,23.823601426242714,Democratic,D,28,Gladys A. Robinson,Guilford,Super Solid D
+28,610U800US37029,NC-Sen-29,-18.87439893268971,29,-12.624398932689711,Republican,R,29,"David W. Craven, Jr.","Anson,                         Montgomery,                         Randolph,                         Richmond,                         Union",Solid R
+29,610U800US37030,NC-Sen-30,-26.112223343238483,30,-19.862223343238483,Republican,R,30,Steve Jarvis,"Davidson,                         Davie",Solid R
+30,610U800US37031,NC-Sen-31,-10.00073843807126,31,-3.7507384380712594,Republican,R,31,Joyce Krawiec,"Forsyth,                         Stokes",Tilt R
+31,610U800US37032,NC-Sen-32,3.4590342463269206,32,9.70903424632692,Democratic,D,32,"Paul A. Lowe, Jr.",Forsyth,Likely D
+32,610U800US37033,NC-Sen-33,-23.41360721611959,33,-17.16360721611959,Republican,R,33,Carl Ford,"Rowan,                         Stanly",Solid R
+33,610U800US37034,NC-Sen-34,-9.525924495333218,34,-3.275924495333218,Republican,R,34,Paul Newton,Cabarrus,Tilt R
+34,610U800US37035,NC-Sen-35,-15.595868020123168,35,-9.345868020123168,Republican,R,35,Todd Johnson,"Cabarrus,                         Union",Likely R
+35,610U800US37036,NC-Sen-36,-31.169909329329148,36,-24.919909329329148,Republican,R,36,Eddie D. Settle,"Alexander,                         Surry,                         Wilkes,                         Yadkin",Super Solid R
+36,610U800US37037,NC-Sen-37,-15.376429437949463,37,-9.126429437949463,Republican,R,37,Vickie Sawyer,"Iredell,                         Mecklenburg",Likely R
+37,610U800US37038,NC-Sen-38,27.214758527566957,38,33.46475852756696,Democratic,D,38,Mujtaba A. Mohammed,Mecklenburg,Super Solid D
+38,610U800US37039,NC-Sen-39,10.83844704502331,39,17.088447045023308,Democratic,D,39,DeAndrea Salvador,Mecklenburg,Solid D
+39,610U800US37040,NC-Sen-40,15.523467105834811,40,21.77346710583481,Democratic,D,40,Joyce Waddell,Mecklenburg,Super Solid D
+40,610U800US37041,NC-Sen-41,11.243860290984957,41,17.493860290984955,Democratic,D,41,Natasha R. Marcus,Mecklenburg,Solid D
+41,610U800US37042,NC-Sen-42,-1.6169080852543511,42,4.633091914745648,Democratic,D,42,Rachel Hunt,Mecklenburg,Tilt D
+42,610U800US37043,NC-Sen-43,-14.600083861347402,43,-8.350083861347402,Republican,R,43,Brad Overcash,Gaston,Likely R
+43,610U800US37044,NC-Sen-44,-26.506824910102278,44,-20.256824910102278,Republican,R,44,W. Ted Alexander,"Cleveland,                         Gaston,                         Lincoln",Super Solid R
+44,610U800US37045,NC-Sen-45,-25.79833761538155,45,-19.54833761538155,Republican,R,45,Dean Proctor,"Caldwell,                         Catawba",Solid R
+45,610U800US37046,NC-Sen-46,-20.30112611003774,46,-14.051126110037739,Republican,R,46,Warren Daniel,"Buncombe,                         Burke,                         McDowell",Solid R
+46,610U800US37047,NC-Sen-47,-20.294514550724617,47,-14.044514550724617,Republican,R,47,Ralph Hise,"Alleghany,                         Ashe,                         Avery,                         Caldwell,                         Haywood,                         Madison,                         Mitchell,                         Watauga,                         Yancey",Solid R
+47,610U800US37048,NC-Sen-48,-22.351541168270916,48,-16.101541168270916,Republican,R,48,Timothy D. Moffitt,"Henderson,                         Polk,                         Rutherford",Solid R
+48,610U800US37049,NC-Sen-49,-4.084547729237192,49,2.165452270762808,Democratic,D,49,Julie Mayfield,Buncombe,Tilt D
+49,610U800US37050,NC-Sen-50,-22.789364878784006,50,-16.539364878784006,Republican,R,50,Kevin Corbin,"Cherokee,                         Clay,                         Graham,                         Haywood,                         Jackson,                         Macon,                         Swain,                         Transylvania",Solid R
