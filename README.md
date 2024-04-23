@@ -1,6 +1,6 @@
 # State Legislative Districts Competitiveness Analysis
 
-This project explores the use of an ML model trained on 451 characteristics of Congressional Districts to predict Partisan Voter Index (PVI) scores for state legislative seats (Upper Chamber Senate Seats). For predicting PVI on Congressional districts, the model had an R^2 of 0.92 and RMSE of 4.3. Using this pre-trained model, PVI scores were assigned to every state legislative district's upper chamber/state senate seats based on the same demographic features.
+This project explores the use of an ML model trained on 451 characteristics of Congressional Districts to predict Partisan Voter Index (PVI) scores for state legislative seats (Upper Chamber Senate Seats). When predicting PVI on Congressional districts, the model had an R^2 of 0.92 and RMSE of 4.3. Using this pre-trained model, PVI scores were assigned to every state legislative district's upper chamber/state senate seats based on the same demographic features.
 
 ## Project Steps
 
