@@ -1,6 +1,7 @@
-# State Legislative Districts Competitiveness Analysis
+# Mapping and Analyzing State Legislative District Competitiveness with GIS
 
-This project explores the use of an ML model trained on 451 characteristics of Congressional Districts to predict Partisan Voter Index (PVI) scores for state legislative seats (Upper Chamber Senate Seats). When predicting PVI on Congressional districts, the model had an R^2 of 0.92 and RMSE of 4.3. Using this pre-trained model, PVI scores were assigned to every state legislative district's upper chamber/state senate seats based on the same demographic features.
+The initial goal of this project was to demonstrate my capabilities in manipulating shapefiles with geopandas and producing maps with QGIS (which, let's be honest, is not the most intuitive). However, as I got into the weeds, I fell into my own rabbit-hole, transforming this project into a deeper dive into the competitiveness of state legislative districts, complemented by some pretty cool maps! #GIS
+This project used an ML model trained on demographic characteristics of Congressional Districts to predict Partisan Voter Index (PVI) scores for state legislative seats (Upper Chamber Senate Seats, specifically). When predicting PVI on Congressional districts, the model had an R^2 of 0.92 and RMSE of 4.3. Using this pre-trained model, PVI scores were assigned to every state legislative district's upper chamber/state senate seats based on the same demographic features.
 
 ## Project Steps
 
