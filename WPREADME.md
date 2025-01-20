@@ -27,15 +27,4 @@ This project used an ML model trained on demographic characteristics of Congress
 
 I am currently working on a more detailed write-up for this project with interactive maps. In the meantime, check out the visualizations:
 
-## Visualizations
-
-1. ![Predicted Composition Donut](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/1-Predicted-Composition-Donut.png)
-2. ![Predicted Composition State Senates](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/2-Predicted-Composition-State-Senates.png)
-3. ![Shifted Predicted Composition Donut](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/3-Shifted-Predicted-Composition-Donut.png)
-4. ![Shifted Predicted Composition State Senates](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/4-Shifted-Predicted-Composition-State-Senates.png)
-5. ![Composition Error](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/5-Composition-Error.png)
-6. ![USA PVI](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/6-USA-PVI.png)
-7. ![NC Senate Seats](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/7-NC-Senate-Seats.png)
-8. ![GOP Gerrymander](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/8-GOP-Gerrymander.png)
-
-Stay tuned for more updates and interactive versions of these maps!
+Stay tuned for updates and interactive versions of these maps!
