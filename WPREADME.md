@@ -29,13 +29,13 @@ I am currently working on a more detailed write-up for this project with interac
 
 ## Visualizations
 
-1. ![Predicted Composition Donut](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/1-%20Predicted%20Composition%20Donut.png)
-2. ![Predicted Composition State Senates](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/2-%20Predicted%20Composition%20State%20Senates.png)
-3. ![Shifted Predicted Composition Donut](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/3-%20Shifted%20Predicted%20Composition%20Donut.png)
-4. ![Shifted Predicted Composition State Senates](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/4-%20Shifted%20Predicted%20Composition%20State%20Senates.png)
-5. ![Composition Error](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/5-%20Composition%20Error.png)
-6. ![USA PVI](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/6-%20USA%20PVI.png)
-7. ![NC Senate Seats](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/7-%20NC%20Senate%20Seats.png)
-8. ![GOP Gerrymander](https://github.com/samforwill/State-Legislative-Districts-PVI/blob/main/https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/8-%20GOP%20Gerrymander.png)
+1. ![Predicted Composition Donut](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/1-%20Predicted%20Composition%20Donut.png)
+2. ![Predicted Composition State Senates](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/2-%20Predicted%20Composition%20State%20Senates.png)
+3. ![Shifted Predicted Composition Donut](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/3-%20Shifted%20Predicted%20Composition%20Donut.png)
+4. ![Shifted Predicted Composition State Senates](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/4-%20Shifted%20Predicted%20Composition%20State%20Senates.png)
+5. ![Composition Error](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/5-%20Composition%20Error.png)
+6. ![USA PVI](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/6-%20USA%20PVI.png)
+7. ![NC Senate Seats](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/7-%20NC%20Senate%20Seats.png)
+8. ![GOP Gerrymander](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/8-%20GOP%20Gerrymander.png)
 
 Stay tuned for more updates and interactive versions of these maps!
