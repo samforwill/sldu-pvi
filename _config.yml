@@ -1,0 +1,38 @@
+# docs/_config.yml
+title: "State Legislative District Competitiveness"
+description: "Standalone project page"
+baseurl: "/sldu-pvi"    # running at the root of this repo's Pages
+url: "https://samforwill.github.io"
+
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1" # 
+
+# theme: "minimal-mistakes-jekyll"
+
+logo: "/assets/images/github_logo.png"  # Optional, replace with your logo
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true   # enable HTML blocks everywhere
+
+author:
+  name: "Forrest Williams"
+  avatar: "/assets/images/avatar1.jpg"
+  bio: "Data analyst, election nerd, and Jekyll tinkerer."
+  location: "New York, NY"
+  email: "you@example.com"       # optional
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/forrestwilliams"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/forrestwilliams"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/forrestwilliams"

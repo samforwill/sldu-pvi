@@ -1,0 +1,451 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.1 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Mapping State Legislative District Competitiveness with PVI</title>
+<meta name="description" content="Standalone project page">
+
+
+  <meta name="author" content="Forrest Williams">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="State Legislative District Competitiveness">
+<meta property="og:title" content="Mapping State Legislative District Competitiveness with PVI">
+<meta property="og:url" content="http://localhost:4000/sldu-pvi/">
+
+
+  <meta property="og:description" content="Standalone project page">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/sldu-pvi/">
+
+
+
+
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+    "name": null,
+    "url": "http://localhost:4000/sldu-pvi/"
+}
+</script>
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/sldu-pvi/feed.xml" type="application/atom+xml" rel="alternate" title="State Legislative District Competitiveness Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/sldu-pvi/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/sldu-pvi/"><img src="/sldu-pvi/assets/images/github_logo.png" alt="State Legislative District Competitiveness"></a>
+        
+        <a class="site-title" href="/sldu-pvi/">
+          State Legislative District Competitiveness
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="https://samforwill.github.io/"
+                
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="https://samforwill.github.io/projects/"
+                
+                
+              >Projects</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="https://samforwill.github.io/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="https://samforwill.github.io/contact/"
+                
+                
+              >Contact</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="http://localhost:4000/sldu-pvi/">
+        <img src="/sldu-pvi/assets/images/avatar1.jpg" alt="Forrest Williams" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/sldu-pvi/" itemprop="url">Forrest Williams</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Data analyst, election nerd, and Jekyll tinkerer.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">New York, NY</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://github.com/forrestwilliams" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://linkedin.com/in/forrestwilliams" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/forrestwilliams" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:you@example.com" rel="me" class="u-email">
+            <meta itemprop="email" content="you@example.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Mapping State Legislative District Competitiveness with PVI">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/sldu-pvi/" itemprop="url">Mapping State Legislative District Competitiveness with PVI
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#project-steps">Project Steps</a></li><li><a href="#visualizations">Visualizations</a></li></ul>
+            </nav>
+          </aside>
+        
+        <style>
+.page__content {
+  font-size: 0.8em;
+  line-height: 1.6;
+}
+</style>
+
+<p>The initial goal of this project was to demonstrate my capabilities in manipulating shapefiles with geopandas and producing maps with QGIS (which, lbh, is not the most intuitive). However, as I got into the weeds, I fell into my own rabbit-hole taking a deeper dive into the competitiveness of state legislative districts, complemented by some pretty cool maps! #GIS</p>
+
+<p>This project used an ML model trained on demographic characteristics of Congressional Districts to predict Partisan Voter Index (PVI) scores. This model’s predictive accuracy with PVI on Congressional Districts had an R^2 of 0.92 and RMSE of 4.3. Using this pre-trained model, PVI scores were assigned to every state legislative district’s upper chamber/state senate seats based on the same demographic features.</p>
+
+<h2 id="project-steps">Project Steps</h2>
+
+<ol>
+  <li><strong>Model Training and Prediction</strong>:
+    <ul>
+      <li>Trained a model to predict PVI scores for Congressional districts.</li>
+      <li>Applied the model to predict PVI for state senate districts.</li>
+    </ul>
+  </li>
+  <li><strong>Evaluation and Adjustment</strong>:
+    <ul>
+      <li>Initially, the model predicted 31% of Senate seats in the US were held by Democrats, but the actual composition of total Dem seats in the US was 42%.</li>
+      <li>Determined there was a systematic undervaluation of Democrats in state legislative races in every state.</li>
+      <li>Assumed the electorate in low-turnout elections behaved more Democratic than in Presidential elections, so assigned a 6.25-point shift towards Dems in Partisan scores to each state legilsative district to align predictions with actual composition in the US.</li>
+    </ul>
+  </li>
+  <li><strong>State-by-State Analysis</strong>:
+    <ul>
+      <li>Post-adjustment, the model showed improved predictions for state legislative compositions across nearly all states except New Hampshire (NH Partisan scores are nearly all within the “tossup” or “tilt” zone).</li>
+    </ul>
+  </li>
+  <li><strong>Detailed Case Study - North Carolina</strong>:
+    <ul>
+      <li>Conducted a detailed analysis of North Carolina’s state senate seats using QGIS.</li>
+      <li>Mapped and colored districts based on predicted and actual party control. Adjusted model mispredicted only 5 out of 50 districts, and each of those districts was a tossup or tilt district (one of which was a Democrat (Sydney Batch, NC-17) in a predicted Republican district who was appointed to the seat by the Democratic Governor, Roy Cooper).</li>
+    </ul>
+  </li>
+  <li><strong>Visualization of Predictive Power</strong>:
+    <ul>
+      <li>Generated maps for all state legislative seats in the USA, categorizing districts from “Super Solid D” to “Super Solid R”.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>I am currently working on a more detailed write-up for this project with interactive maps. In the meantime, check out the visualizations:</p>
+
+<h2 id="visualizations">Visualizations</h2>
+
+<ol>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/1-%20Predicted%20Composition%20Donut.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/1-%20Predicted%20Composition%20Donut.png" alt="Predicted Composition Donut" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/2-%20Predicted%20Composition%20State%20Senates.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/2-%20Predicted%20Composition%20State%20Senates.png" alt="Predicted Composition State Senates" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/3-%20Shifted%20Predicted%20Composition%20Donut.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/3-%20Shifted%20Predicted%20Composition%20Donut.png" alt="Shifted Predicted Composition Donut" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/4-%20Shifted%20Predicted%20Composition%20State%20Senates.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/4-%20Shifted%20Predicted%20Composition%20State%20Senates.png" alt="Shifted Predicted Composition State Senates" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/5-%20Composition%20Error.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/5-%20Composition%20Error.png" alt="Composition Error" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/6-%20USA%20PVI.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/6-%20USA%20PVI.png" alt="USA PVI" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/7-%20NC%20Senate%20Seats.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/7-%20NC%20Senate%20Seats.png" alt="NC Senate Seats" /></a></p>
+  </li>
+  <li>
+    <p><a href="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/8-%20GOP%20Gerrymander.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/samforwill/State-Legislative-Districts-PVI/main/images/8-%20GOP%20Gerrymander.png" alt="GOP Gerrymander" /></a></p>
+  </li>
+</ol>
+
+<p>Stay tuned for more updates and interactive versions of these maps!</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/sldu-pvi/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">State Legislative District Competitiveness</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/sldu-pvi/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
