@@ -12,7 +12,7 @@ toc_depth: 2
 }
 </style>
 
- The complete code notebooks, data processing scripts, and source files for this project are available in the [project repository](https://github.com/samforwill/sldu-piv). 
+> The complete code notebooks, data processing scripts, and source files for this project are available in the [project repository](https://github.com/samforwill/sldu-piv). 
 
 
 The initial goal of this project was to demonstrate my capabilities in manipulating shapefiles with geopandas and producing maps with QGIS. However, as I got into the weeds, I fell into my own rabbit-hole taking a deeper dive into the competitiveness of state legislative districts, complemented by some pretty cool maps! #GIS
